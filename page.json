@@ -4,6 +4,11 @@
   "image_url": "https://raw.githubusercontent.com/mrcnserkan/my-links/main/profile-picture.jpeg",
   "links": [
     {
+      "title": "Website",
+      "url": "https://serkanmercan.dev",
+      "icon": "link"
+    },
+    {
       "title": "LinkedIn",
       "url": "https://www.linkedin.com/in/mrcnserkan/",
       "icon": "linkedin"
